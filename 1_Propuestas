@@ -1,1 +1,47 @@
+Proyectos propuestos
 
+Autor: Daniel Castro Fernandez
+
+Sistema inteligente de control de desperdicios
+
+Descripción del problema
+
+En una cocina de un restaurante  se generan diariamente desperdicios de alimentos por diferentes motivos: productos que sobran después del servicio, alimentos que se estropean, preparaciones que no se utilizan completamente o cantidades que se preparan en exceso.
+
+Actualmente puede resultar complicado conocer con precisión qué productos se desperdician, en qué cantidad y cuáles son las causas más habituales. Esto dificulta detectar dónde se producen las mayores pérdidas y tomar decisiones para reducirlas.
+
+Objetivos
+
+Crear un sistema que permita registrar y analizar los desperdicios de la cocina para conocer qué alimentos se desperdician, en qué cantidades y con qué frecuencia.
+
+El sistema deberá permitir identificar patrones de desperdicio y estimar el coste económico de los desperdicios. También se pretende utilizar los datos históricos para realizar predicciones y ayudar a tomar decisiones que permitan reducir el desperdicio de alimentos.
+
+Alcance
+
+El proyecto recogerá información sobre los desperdicios producidas en la cocina, como el tipo de alimento, cantidad, fecha y motivo del desperdicio.
+
+Los datos se almacenarán para poder consultar estadísticas sobre los productos que generan más desperdicio y su evolución a lo largo del tiempo.
+
+Como parte del proyecto se podrá incorporar un sistema de predicción que permita detectar qué productos tienen mayor probabilidad de generar desperdicios y ayudar a ajustar las cantidades preparadas.
+
+Inventario inteligente de cocina
+
+Descripción del problema
+
+En una cocina de un restaurante  se utilizan diariamente muchos productos diferentes y resulta necesario controlar las cantidades disponibles, las fechas de caducidad y las necesidades de reposición.
+
+El control manual del inventario puede provocar que algunos productos caduquen antes de utilizarse, que se compre más cantidad de la necesaria o que falten productos durante el servicio.
+
+Objetivos
+
+Crear un sistema inteligente que permita conocer en todo momento el estado del inventario de la cocina y facilite la gestión de los productos.
+
+El sistema deberá ayudar a controlar las cantidades disponibles, las fechas de caducidad y las necesidades de reposición. También se pretende que pueda detectar situaciones de riesgo, como productos próximos a caducar o cantidades insuficientes.
+
+Alcance
+
+El sistema permitirá registrar los productos disponibles, sus cantidades, fechas de entrada y fechas de caducidad.
+
+A partir de esta información se podrán generar avisos cuando un producto esté próximo a caducar o cuando su cantidad sea inferior a un nivel establecido.
+
+Como ampliación, el sistema podrá analizar el consumo histórico de los productos para estimar cuándo será necesario realizar nuevos pedidos y qué cantidad debería solicitarse.
