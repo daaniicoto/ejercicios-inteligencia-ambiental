@@ -48,8 +48,3 @@ paginate: true
 - **Secuencia:** La consola enciende las zonas en orden (ej: Zona A, 200ms después Zona B, etc.), creando visualmente la ola para el público.
 
 
-Guárdalo (Ctrl + S), dale al botón de vista previa de Marp y ya lo verás perfecto y sin códigos raros.
-
-Si te gusta cómo ha quedado, me avisas y hacemos el paso final: guardar esto en tu repositorio de GitHub para que tu profesor pueda ver que ya has terminado la tarea.
-
-
